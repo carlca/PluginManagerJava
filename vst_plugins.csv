@@ -1,0 +1,557 @@
+2ndsenseaudio,com.2ndsenseaudio.wiggle,Wiggle.vst
+8dio,com.8dio.soundpaint,Soundpaint.vst
+accusonus,com.accusonus.beatformer,Beatformer.vst
+accusonus,com.accusonus.regrooverpro,RegrooverPro.vst
+akaipro,com.akaipro.flexbeat,Flex Beat.vst
+algonaut,com.algonaut.atlas,Atlas.vst
+amplesound,com.amplesound.apc,APC.vst
+amplesound,com.amplesound.agml2,AGML2.vst
+applied-acoustics,com.applied-acoustics.strum session 2 vst,Strum Session 2.vst
+applied-acoustics,com.applied-acoustics.lounge lizard ep-4 vst,Lounge Lizard EP-4.vst
+applied-acoustics,com.applied-acoustics.aas player vst,AAS Player.vst
+applied-acoustics,com.applied-acoustics.objeq delay vst,Objeq Delay.vst
+applied-acoustics,com.applied-acoustics.strum gs-2 vst,Strum GS-2.vst
+applied-acoustics,com.applied-acoustics.ultra analog session 2 vst,Ultra Analog Session 2.vst
+applied-acoustics,com.applied-acoustics.lounge lizard session 4 vst,Lounge Lizard Session 4.vst
+arturia,com.arturia.pigments.vst,Pigments.vst
+arturia,com.arturia.tape-mello-fi.vst,Tape MELLO-FI.vst
+arturia,com.arturia.chorus-jun-6.vst,Chorus JUN-6.vst
+arturia,com.arturia.analog-lab-v.vst,Analog Lab V.vst
+arturia,com.arturia.filter-ms-20.vst,Filter MS-20.vst
+audio,audio.vital.synth,Vital.vst
+audio,audio.pulsar.w495,Pulsar/Pulsar W495.vst
+audioassault,com.audioassault.headcrusherv2,Head Crusher v2.vst
+audioassault,com.audioassault.vst.druminator,Druminator.vst
+audioassault,com.audioassault.vst.grindmachine,GrindMachine.vst
+audioblast,com.audioblast.breadslicer,BreadSlicer.vst
+audioblast,com.audioblast.blastdelay3,BlastDelay3.vst
+audioblast,com.audioblast.instalooper3,InstaLooper3.vst
+audioblast,com.audioblast.acidbox,AcidBox.vst
+audiodamage,com.audiodamage.tattoo,Audio Damage/Tattoo.vst
+audiodamage,com.audiodamage.phosophor,Audio Damage/Phosphor.vst
+audiomodern,com.audiomodern.gatelab,Gatelab.vst
+audiomodern,com.audiomodern.playbeat3,Playbeat 3.vst
+audiomodern,com.audiomodern.panflow,Panflow.vst
+audiomodern,com.audiomodern.riffer,Riffer.vst
+audiomodern,com.audiomodern.chordjam,Chordjam.vst
+audiomodern,com.audiomodern.loopmix,Loopmix.vst
+audiomodern,com.audiomodern.filterstepc,Filterstep.vst
+audiomovers,com.audiomovers.inject,Inject.vst
+audiority,com.audiority.polaris,Audiority/Polaris.vst
+audiority,com.audiority.spacestationum282,Audiority/Space Station UM282.vst
+audiothing,com.audiothing.noises,Noises.vst
+audiothing,com.audiothing.thingscrusher,ThingsCrusher.vst
+audiothing,com.audiothing.filterjamplugin,Filterjam.vst
+audiothing,com.audiothing.valves,Valves.vst
+audiothing,com.audiothing.thingstilt,ThingsFlipEQ.vst
+audiothing,com.audiothing.springs,Springs.vst
+audiothing,com.audiothing.latinpercussion,LatinPercussion.vst
+audiothing,com.audiothing.spacestrip,SpaceStrip.vst
+audiothing,com.audiothing.thingstexture,ThingsTexture.vst
+audiothing,com.audiothing.thingsmotor,ThingsMotor.vst
+audiothing,com.audiothing.hats,Hats.vst
+audiothing,com.audiothing.blindfoldeq,BlindfoldEQ.vst
+audiothing,com.audiothing.thingsbubbles,ThingsBubbles.vst
+audiothing,com.audiothing.fogconvolver2,FogConvolver2.vst
+audiothing,com.audiothing.sr88,SR88.vst
+audiothing,com.audiothing.outerspace,OuterSpace.vst
+audiothing,com.audiothing.alborosiedubstation,AlborosieDubStation.vst
+babyaudio,com.babyaudio.transit,Transit.vst
+babyaudio,com.babyaudio.ba1,BA-1.vst
+babyaudio,com.babyaudio.pitchdrift,PitchDrift.vst
+babyaudio,com.babyaudio.spacedout,SpacedOut.vst
+babyaudio,com.babyaudio.magicswitch,MagicSwitch.vst
+babyaudio,com.babyaudio.parallelaggressor,ParallelAggressor.vst
+babyaudio,com.babyaudio.babycomeback,BabyComeback.vst
+babyaudio,com.babyaudio.crystalline,Crystalline.vst
+babyaudio,com.babyaudio.magicdice,MagicDice.vst
+bluecataudio,com.bluecataudio.bc-free-amp-vst,BC Free Amp VST.vst
+bluecataudio,com.bluecataudio.bc-gain-3-vst-mono-,BC Gain 3 VST(Mono).vst
+bluecataudio,com.bluecataudio.bc-triple-eq-4-vst-stereo-,BC Triple EQ 4 VST(Stereo).vst
+bluecataudio,com.bluecataudio.bc-flanger-3-vst-mono-,BC Flanger 3 VST(Mono).vst
+bluecataudio,com.bluecataudio.bc-freqanalyst-2-vst-stereo-,BC FreqAnalyst 2 VST(Stereo).vst
+bluecataudio,com.bluecataudio.bc-chorus-4-vst-mono-,BC Chorus 4 VST(Mono).vst
+bluecataudio,com.bluecataudio.bc-freqanalyst-2-vst-mono-,BC FreqAnalyst 2 VST(Mono).vst
+bluecataudio,com.bluecataudio.bc-gain-3-vst-dual-,BC Gain 3 VST(Dual).vst
+bluecataudio,com.bluecataudio.bc-patchwork-vst,BC PatchWork VST.vst
+bluecataudio,com.bluecataudio.bc-chorus-4-vst-stereo-,BC Chorus 4 VST(Stereo).vst
+bluecataudio,com.bluecataudio.bc-gain-3-vst-stereo-,BC Gain 3 VST(Stereo).vst
+bluecataudio,com.bluecataudio.bc-triple-eq-4-vst-mono-,BC Triple EQ 4 VST(Mono).vst
+bluecataudio,com.bluecataudio.bc-connector-vst,BC Connector VST.vst
+bluecataudio,com.bluecataudio.bc-triple-eq-4-vst-dual-,BC Triple EQ 4 VST(Dual).vst
+bluecataudio,com.bluecataudio.bc-phaser-3-vst-mono-,BC Phaser 3 VST(Mono).vst
+bluecataudio,com.bluecataudio.bc-flanger-3-vst-stereo-,BC Flanger 3 VST(Stereo).vst
+bluecataudio,com.bluecataudio.bc-patchwork-synth-vst,BC PatchWork Synth VST.vst
+bluecataudio,com.bluecataudio.bc-phaser-3-vst-stereo-,BC Phaser 3 VST(Stereo).vst
+bomshankamachines,com.bomshankamachines.occularscope,occularScope.vst
+bomshankamachines,com.bomshankamachines.plasticityfilter,plasticityFilter.vst
+bozdigitallabs,com.bozdigitallabs.panipulator3,Panipulator 3.vst
+bozdigitallabs,com.bozdigitallabs.vst.widthknob,WidthKnob.vst
+bozdigitallabs,com.bozdigitallabs.vst.imperialdelay_1_5,ImperialDelay_1_5.vst
+bozdigitallabs,com.bozdigitallabs.vst.barkofdog2,BarkOfDog2.vst
+bozdigitallabs,com.bozdigitallabs.vst.littleclipper,LittleClipper.vst
+braincontrol,org.braincontrol.tunefish4,Tunefish4.vst
+cabbageaudio,com.cabbageaudio.cabbageplugin,AudioFB/Pro Tuner.vst
+cabbageaudio,com.cabbageaudio.cabbageplugin,movement by Kia.vst
+cableguys,de.cableguys.curve2.vst,Curve2.vst
+cableguys,de.cableguys.midishaper.vst,MidiShaper.vst
+cableguys,de.cableguys.halftime,HalfTime.vst
+cableguys,de.cableguys.kickstart2,Kickstart 2.vst
+cableguys,de.cableguys.shaperbox3,ShaperBox 3.vst
+cableguys,de.cableguys.filtershaper3.vst,FilterShaper3.vst
+camelaudio,com.camelaudio.vst.camelcrusher,CamelCrusher.vst
+cherryaudio,com.cherryaudio.octavecat,Octave Cat.vst
+cherryaudio,com.cherryaudio.galactic,Galactic Reverb.vst
+cherryaudio,com.cherryaudio.eightvoice,Eight Voice.vst
+cherryaudio,com.cherryaudio.sines,Sines.vst
+cherryaudio,com.cherryaudio.elkax,Elka-X.vst
+cherryaudio,com.cherryaudio.ps20,PS-20.vst
+cherryaudio,com.cherryaudio.memorymode,Memorymode.vst
+cherryaudio,com.cherryaudio.mercury6,Mercury-6.vst
+cherryaudio,com.cherryaudio.stardust201,Stardust 201 Tape Echo.vst
+cherryaudio,com.cherryaudio.mg1,Surrealistic MG-1 Plus.vst
+cherryaudio,com.cherryaudio.harmonia,Harmonia.vst
+cherryaudio,com.cherryaudio.dreamsynth,Dreamsynth.vst
+cherryaudio,com.cherryaudio.ps20,PS-20 FX.vst
+chowdsp,com.chowdsp.chowphasermono,ChowPhaserMono.vst
+chowdsp,com.chowdsp.byod,BYOD.vst
+chowdsp,com.chowdsp.chowkick,ChowKick.vst
+chowdsp,com.chowdsp.chowphaserstereo,ChowPhaserStereo.vst
+chowdsp,com.chowdsp.chowcentaur,ChowCentaur.vst
+chowdsp,com.chowdsp.chowmatrix,ChowMatrix.vst
+chowdsp,com.chowdsp.chowtapemodel,CHOWTapeModel.vst
+cognitone,com.cognitone.sprike,Sprike.vst
+credland,net.credland.radio,Radio.vst
+cwitec,com.cwitec.tx16wx,TX16Wx.vst
+d16group,com.d16group.tekturon,Tekturon.vst
+d16group,com.d16group.frontier,Frontier.vst
+d16group,com.d16group.repeater,Repeater.vst
+d16group,com.d16group.drumazon2,Drumazon2.vst
+d16group,com.d16group.sigmund,Sigmund OK.vst
+d16group,com.d16group.phoscyon2,Phoscyon2.vst
+d16group,com.d16group.nithonat,Nithonat.vst
+d16group,com.d16group.sigmund,Sigmund.vst
+daichi,jp.daichi.synth1,Synth1.vst
+decided,ly.decided.decentsampler,DecentSampler.vst
+deviousmachines,com.deviousmachines.infiltrator,Infiltrator.vst
+discodsp,com.discodsp.obxd,OB-Xd.vst
+distocore,com.distocore.vst.bazzmurda,Bazz_Murda_v1_8_2_FREE_64bit.vst
+dragonflyearlyreflections.vst,net.sf.distrho.dragonflyearlyreflections,DragonflyEarlyReflections.vst
+dragonflyhallreverb.vst,net.sf.distrho.dragonflyhallreverb,DragonflyHallReverb.vst
+dragonflyplatereverb.vst,net.sf.distrho.dragonflyplatereverb,DragonflyPlateReverb.vst
+dragonflyroomreverb.vst,net.sf.distrho.dragonflyroomreverb,DragonflyRoomReverb.vst
+emvoice,com.emvoice.one,emvoiceone.vst
+ericasynths,com.ericasynths.zendelayvirtual,Zen Delay Virtual.vst
+eventiquadravox,com.eventide.quadravox,Eventide/Quadravox.vst
+eventispliteq,com.eventide.spliteq,Eventide/SplitEQ.vst
+excite audio,com.excite audio.lofimodular,Lifeline Expanse.vst
+excite audio,com.excite audio.plugin,Lifeline Console.vst
+fullbucket,com.fullbucket.vst.grainstrain,GrainStrain.vst
+futureaudioworkshop,com.futureaudioworkshop.sublab,SubLab.vst
+futureaudioworkshop,com.futureaudioworkshop.sublabxl,SubLabXL.vst
+glitchmachines,com.glitchmachines.polygon,Polygon.vst
+gorangrooves,com.gorangrooves.handydrums,GoranGrooves/Handy Drums/Handy Drums- Reggae Standard.vst
+gtune,co.uk.gvst.gtune,GTune.vst
+hexachords,com.hexachords.orbproducer,Orb Melody.vst
+hexachords,com.hexachords.orbproducer,Orb Chords.vst
+hexachords,com.hexachords.orbproducer,Orb Bass.vst
+hexachords,com.hexachords.orbproducer,Orb Arpeggios.vst
+hyplugins,com.hyplugins.hyesg,HY-ESG.vst
+hyplugins,com.hyplugins.hyseqcollection2_free,HY-SeqCollection2_free.vst
+hyplugins,com.hyplugins.hymps2free,HY-MPS2 free.vst
+image-line,com.image-line.flstudiovsti,FL Studio VSTi.vst
+imaginando,com.imaginando.k7d.vst,K7D.vst
+imaginando,com.imaginando.dlym.vst,DLYM.vst
+imperfect.vst,com.w.a.production.vst.imperfect,ImPerfect.vst
+impulserecord,com.impulserecord.convologyxt,ConvologyXT.vst
+initialaudio,com.initialaudio.dynamicdelay,Initial Dynamic Delay.vst
+initialaudio,com.initialaudio.slice,Initial Slice.vst
+initialaudio,com.initialaudio.sektor,Sektor.vst
+initialaudio,com.initialaudio.slicemultioutput,Initial Slice (Multi Output).vst
+inmusicbrands,com.inmusicbrands.delaypro,AIR Delay Pro.vst
+instantaudio,com.instantaudio.quickbass,QuickBass.vst
+instantaudio,com.instantaudio.quickag,QuickAG.vst
+izotope,com.izotope.audioplugins.vst.trash2,iZotope Trash 2.vst
+jamorigin,com.jamorigin.midiguitar2,MIDI Guitar 2.vst
+jamorigin,com.jamorigin.midibass,MIDI Bass.vst
+joachip,com.joachip.uranusdelay,JoaCHIP Uranus Delay.vst
+kazrog,com.kazrog.kclip3,KClip3.vst
+kilohearts,com.kilohearts.haas,Kilohearts/kHs Haas.vst
+kilohearts,com.kilohearts.ladder filter,Kilohearts/kHs Ladder Filter.vst
+kilohearts,com.kilohearts.distortion,Kilohearts/kHs Distortion.vst
+kilohearts,com.kilohearts.reverser,Kilohearts/kHs Reverser.vst
+kilohearts,com.kilohearts.dual delay,Kilohearts/kHs Dual Delay.vst
+kilohearts,com.kilohearts.reverb,Kilohearts/kHs Reverb.vst
+kilohearts,com.kilohearts.compressor,Kilohearts/kHs Compressor.vst
+kilohearts,com.kilohearts.frequency shifter,Kilohearts/kHs Frequency Shifter.vst
+kilohearts,com.kilohearts.chorus,Kilohearts/kHs Chorus.vst
+kilohearts,com.kilohearts.khs one,Kilohearts/kHs ONE.vst
+kilohearts,com.kilohearts.ring mod,Kilohearts/kHs Ring Mod.vst
+kilohearts,com.kilohearts.phase plant,Kilohearts/Phase Plant.vst
+kilohearts,com.kilohearts.3-band eq,Kilohearts/kHs 3-Band EQ.vst
+kilohearts,com.kilohearts.flanger,Kilohearts/kHs Flanger.vst
+kilohearts,com.kilohearts.trance gate,Kilohearts/kHs Trance Gate.vst
+kilohearts,com.kilohearts.channel mixer,Kilohearts/kHs Channel Mixer.vst
+kilohearts,com.kilohearts.transient shaper,Kilohearts/kHs Transient Shaper.vst
+kilohearts,com.kilohearts.pitch shifter,Kilohearts/kHs Pitch Shifter.vst
+kilohearts,com.kilohearts.stereo,Kilohearts/kHs Stereo.vst
+kilohearts,com.kilohearts.tape stop,Kilohearts/kHs Tape Stop.vst
+kilohearts,com.kilohearts.filter,Kilohearts/kHs Filter.vst
+kilohearts,com.kilohearts.gate,Kilohearts/kHs Gate.vst
+kilohearts,com.kilohearts.resonator,Kilohearts/kHs Resonator.vst
+kilohearts,com.kilohearts.delay,Kilohearts/kHs Delay.vst
+kilohearts,com.kilohearts.formant filter,Kilohearts/kHs Formant Filter.vst
+kilohearts,com.kilohearts.comb filter,Kilohearts/kHs Comb Filter.vst
+kilohearts,com.kilohearts.bitcrush,Kilohearts/kHs Bitcrush.vst
+kilohearts,com.kilohearts.limiter,Kilohearts/kHs Limiter.vst
+kilohearts,com.kilohearts.snap heap,Kilohearts/Snap Heap.vst
+kilohearts,com.kilohearts.phase distortion,Kilohearts/kHs Phase Distortion.vst
+kilohearts,com.kilohearts.nonlinear filter,Kilohearts/kHs Nonlinear Filter.vst
+kilohearts,com.kilohearts.phaser,Kilohearts/kHs Phaser.vst
+kilohearts,com.kilohearts.ensemble,Kilohearts/kHs Ensemble.vst
+kilohearts,com.kilohearts.dynamics,Kilohearts/kHs Dynamics.vst
+kilohearts,com.kilohearts.gain,Kilohearts/kHs Gain.vst
+klanghelm,com.klanghelm.mjucjr,MJUCjr.vst
+klanghelm,com.klanghelm.ivgi2,IVGI2.vst
+klanghelm,com.klanghelm.dc1a3,DC1A3.vst
+klevgrand,com.klevgrand.stark,STARK.vst
+klevgrand,com.klevgrand.skaka,skaka.vst
+klevgrand,com.klevgrand.pads,pads.vst
+klevgrand,com.klevgrand.synd,syndt.vst
+klevgrand,com.klevgrand.syndtsphere,SyndtSphere.vst
+klevgrand,com.klevgrand.freeamp,FreeAMP.vst
+klevgrand,com.klevgrand.borsta,borsta.vst
+klevgrand,com.klevgrand.luxe,luxe.vst
+klevgrand,com.klevgrand.svep,svep.vst
+klevgrand,com.klevgrand.baervaag,baervaag.vst
+klevgrand,com.klevgrand.grandfinale,grandfinale.vst
+klevgrand,com.klevgrand.dawcassette,dawcassette.vst
+klevgrand,com.klevgrand.richters,Richter.vst
+klevgrand,com.klevgrand.r0verb,r0verb.vst
+klevgrand,com.klevgrand.tomofon,Tomofon.vst
+klevgrand,com.klevgrand.slammer,slammer.vst
+klevgrand,com.klevgrand.hillman,hillman.vst
+klevgrand,com.klevgrand.jussi,jussi.vst
+klevgrand,com.klevgrand.modley,modley.vst
+klevgrand,com.klevgrand.fosfat,fosfat.vst
+klevgrand,com.klevgrand.winterspeldosa,Speldosa.vst
+klevgrand,com.klevgrand.brusfri,brusfri.vst
+klevgrand,com.klevgrand.tines,tines.vst
+korg,jp.co.korg.fairbanksvst,KORG/Fairbanks.vst
+korg,jp.co.korg.helsinkivst,KORG/Helsinki.vst
+korg,jp.co.korg.glasgowvst,KORG/Glasgow.vst
+korg,jp.co.korg.londonvst,KORG/London.vst
+korg,jp.co.korg.lexingtonvst,KORG/Lexington.vst
+korg,jp.co.korg.kamatavst,KORG/Kamata.vst
+korg,jp.co.korg.rosariovst,KORG/Rosario.vst
+korg,jp.co.korg.recifevst,KORG/Recife.vst
+korg,jp.co.korg.m1le_vst,KORG/M1 Le.vst
+korg,jp.co.korg.warszawavst,KORG/Warszawa.vst
+korg,jp.co.korg.montrealvst,KORG/Montreal.vst
+korg,jp.co.korg.memphisvst,KORG/Memphis.vst
+korg,jp.co.korg.abudhabivst,KORG/AbuDhabi.vst
+korg,jp.co.korg.kievvst,KORG/Kiev.vst
+korg,jp.co.korg.gladstonevst,KORG/Gladstone.vst
+korg,jp.co.korg.stockholmvst,KORG/Stockholm.vst
+korg,jp.co.korg.chicagovst,KORG/Chicago.vst
+korg,jp.co.korg.alexandriavst,KORG/Alexandria.vst
+korg,jp.co.korg.lisbonvst,KORG/Lisbon.vst
+korg,jp.co.korg.berlinvst,KORG/Berlin.vst
+korg,jp.co.korg.otoriivst,KORG/Otorii.vst
+korg,jp.co.korg.dublinvst,KORG/Dublin.vst
+korg,jp.co.korg.vancouvervst,KORG/Vancouver.vst
+korg,jp.co.korg.marseillevst,KORG/Marseille.vst
+korg,jp.co.korg.durbanvst,KORG/Durban.vst
+korg,jp.co.korg.brusselsvst,KORG/Brussels.vst
+korg,jp.co.korg.montpelliervst,KORG/Montpellier.vst
+korg,jp.co.korg.tokyovst,KORG/Tokyo.vst
+korg,jp.co.korg.firenzevst,KORG/Firenze.vst
+korg,jp.co.korg.bilbaovst,KORG/Bilbao.vst
+korg,jp.co.korg.wolfsburgvst,KORG/Wolfsburg.vst
+korg,jp.co.korg.chiangmaivst,KORG/Chiangmai.vst
+korg,jp.co.korg.amsterdamvst,KORG/Amsterdam.vst
+korg,jp.co.korg.salzburgvst,KORG/Salzburg.vst
+korg,jp.co.korg.ebinavst,KORG/Ebina.vst
+korg,jp.co.korg.taipeivst,KORG/Taipei.vst
+korg,jp.co.korg.phoenixvst,KORG/Phoenix.vst
+korg,jp.co.korg.darwinvst,KORG/Darwin.vst
+korg,jp.co.korg.zurichvst,KORG/Zurich.vst
+korg,jp.co.korg.miamivst,KORG/Miami.vst
+korg,jp.co.korg.milpitasvst,KORG/Milpitas.vst
+korg,jp.co.korg.kingstonvst,KORG/Kingston.vst
+korg,jp.co.korg.pompeivst,KORG/Pompei.vst
+korg,jp.co.korg.madridvst,KORG/Madrid.vst
+kushview,net.kushview.plugins.elementfx,KV_ElementFX.vst
+kushview,net.kushview.plugins.element,KV_Element.vst
+kv331audio,com.kv331audio.synthmasteronefxvst,SynthMaster1FX.vst
+kv331audio,com.kv331audio.synthmaster2vstfx,SynthMaster2FX.vst
+kv331audio,com.kv331audio.synthmasterplayervst,SynthMasterPlayer.vst
+kv331audio,com.kv331audio.synthmasteronevst,SynthMaster1.vst
+kv331audio,com.kv331audio.synthmaster2vst,SynthMaster2.vst
+loomer,uk.co.loomer.architect.vst,ArchitectVST.vst
+loopmasters,com.loopmasters.loopcloudsounds,Loopcloud Sounds.vst
+loopmasters,com.loopmasters.loopcloudplay,Loopmasters/Loopcloud Play.vst
+loopmasters,com.loopmasters.loopclouddrum,Loopmasters/Loopcloud Drum.vst
+loopmasters,com.loopmasters.khords,Loopmasters/Khords.vst
+loopmasters,com.loopmasters.loopcloud,Loopcloud.vst
+martinic,com.martinic.vst.lemechomusic,Lem Echo Music.vst
+minimal,com.minimal.rift,Rift.vst
+minimal,com.minimal.rift_filter_lite,Rift Filter Lite.vst
+minimal,com.minimal.riftfeedbacklite,Rift Feedback Lite.vst
+minimal,com.minimal.clusterdelay,Cluster Delay.vst
+minimal,com.minimal.morpheq,Morph EQ.vst
+mixdsp,com.mixdsp.vst.hq2,HQ2.vst
+mixedinkey,com.mixedinkey.vst.satellite.audio,Satellite Audio.vst
+mixedinkey,com.mixedinkey.vst.captain.play,Captain Play Epic.vst
+mixedinkey,com.mixedinkey.vst.captain.beat,Captain Beat Epic.vst
+mixedinkey,com.mixedinkey.vst.captain.melody,Captain Melody Epic.vst
+mixedinkey,com.mixedinkey.vst.captain.deep,Captain Deep Epic.vst
+mixedinkey,com.mixedinkey.vst.satellite.midi,Satellite MIDI.vst
+mixedinkey,com.mixedinkey.vst.satellite.sessions,Satellite Sessions.vst
+mixedinkey,com.mixedinkey.vst.captain.chords,Captain Chords Epic.vst
+modalics,com.modalics.eon-arp,EON-Arp.vst
+modalics,com.modalics.midiator,MIDIator.vst
+modalics,com.modalics.mindst-drums,MINDst Drums.vst
+modalics,com.modalics.beatscholar,Beat Scholar.vst
+modalics,com.modalics.midiatorfx,MIDIator FX.vst
+modalics,com.modalics.midiremod,MIDI ReMod.vst
+modalics,com.modalics.midiremodfx,MIDI ReMod FX.vst
+modartt,com.modartt.pianoteq8.vst,Pianoteq 8.vst
+muramasa,com.muramasa.electrum,Electrum.vst
+musicalentropy,com.musicalentropy.spaceshipdelay,Spaceship Delay.vst
+mycompany,com.mycompany.product,Warmy EP1A.vst
+native instruments,guitar rig 6.fx.vst,Guitar Rig 6.vst
+native instruments,guitar rig 6.fx.vst,Guitar Rig 6.vst
+native instruments,komplete kontrol.synth.vst,Komplete Kontrol.vst
+native instruments,komplete kontrol.synth.vst,Komplete Kontrol.vst
+native instruments,guitar rig 5.fx.vst,Guitar Rig 5.vst
+native instruments,guitar rig 5.fx.vst,Guitar Rig 5.vst
+native instruments,absynth 5.fx.vst,Absynth 5 FX.vst
+native instruments,absynth 5.fx.vst,Absynth 5 FX.vst
+native instruments,replika xt.fx.vst,Replika XT.vst
+native instruments,replika xt.fx.vst,Replika XT.vst
+native instruments,fm8.synth.vst,FM8.vst
+native instruments,fm8.synth.vst,FM8.vst
+native instruments,flair.fx.vst,Flair.vst
+native instruments,flair.fx.vst,Flair.vst
+native instruments,absynth 5.fx2x6.vst,Absynth 5 FX Surround.vst
+native instruments,absynth 5.fx2x6.vst,Absynth 5 FX Surround.vst
+native instruments,reaktor 6.fx16x16.vst,Reaktor 6 FX.vst
+native instruments,reaktor 6.fx16x16.vst,Reaktor 6 FX.vst
+native instruments,freak.fx.vst,Freak.vst
+native instruments,freak.fx.vst,Freak.vst
+native instruments,kontakt.synth.vst,Kontakt.vst
+native instruments,kontakt.synth.vst,Kontakt.vst
+native instruments,absynth 5.synth.vst,Absynth 5.vst
+native instruments,absynth 5.synth.vst,Absynth 5.vst
+native instruments,supercharger.fx.vst,Supercharger.vst
+native instruments,supercharger.fx.vst,Supercharger.vst
+native instruments,reaktor 6.synth.vst,Reaktor 6.vst
+native instruments,reaktor 6.synth.vst,Reaktor 6.vst
+native instruments,raum.fx.vst,Raum.vst
+native instruments,raum.fx.vst,Raum.vst
+native instruments,choral.fx.vst,Choral.vst
+native instruments,choral.fx.vst,Choral.vst
+native instruments,fm8.fx.vst,FM8 FX.vst
+native instruments,fm8.fx.vst,FM8 FX.vst
+native instruments,phasis.fx.vst,Phasis.vst
+native instruments,phasis.fx.vst,Phasis.vst
+native instruments,absynth 5.synth2.vst,Absynth 5 Stereo.vst
+native instruments,absynth 5.synth2.vst,Absynth 5 Stereo.vst
+nembriniaudio,com.nembriniaudio.delay3000,NA Delay3000.vst
+nembriniaudio,com.nembriniaudio.nabigstuff,NA Big Stuff.vst
+nembriniaudio,com.nembriniaudio.natuner,NA Tuner.vst
+newfangledaudio,com.newfangledaudio.generate,Newfangled Audio/Generate.vst
+newfangledaudio,com.newfangledaudio.pendulate,Newfangled Audio/Pendulate.vst
+newsonicarts,com.newsonicarts.freestyle.vsti,Freestyle.vst
+newsonicarts,com.newsonicarts.freestylefx.vstfx,FreestyleFX.vst
+nilsschneider,com.nilsschneider.vst2.k1v,NilsK1v.vst
+noiiz,com.noiiz.filter,Noiiz Filter.vst
+noiiz,com.noiiz.noiizplayer,Noiiz Player.vst
+noiiz,com.noiiz.noiizplugin,Noiiz.vst
+noisemakers,com.noisemakers.siren,Siren.vst
+orchestraltools,com.orchestraltools.sineplayer.vst,SINE Player.vst
+pac,com.pac.protopluggen,Lua Protoplug Gen.vst
+pac,com.pac.protoplugfx,Lua Protoplug Fx.vst
+pitchinnovations,com.pitchinnovations.fluidchordsmfx,Fluid Chords MFX.vst
+pitchinnovations,com.pitchinnovations.fluidchords,Fluid Chords.vst
+plugin-alliance,com.plugin-alliance.plugins.vst.elysianiveaufilter,Plugin Alliance/elysia niveau filter.vst
+plugin-alliance,com.plugin-alliance.plugins.vst.knifaudioknifonium,Plugin Alliance/Knif Audio Knifonium.vst
+plugin-boutique,com.plugin-boutique.carbonelectra,Carbon Electra.vst
+pluginboutique,com.pluginboutique.scaleraudio2,ScalerAudio2.vst
+pluginboutique,com.pluginboutique.scaler2,Scaler2.vst
+positivegrid,com.positivegrid.biasfx2,BIAS FX 2.vst
+renoiredux,com.renoise.redux,Renoise Redux.vst
+roli,com.roli.studiodrums,ROLI Studio Drums.vst
+roli,com.roli.studioplayer,ROLI Studio Player.vst
+rust-,com.rust-vst.glicolvst,GlicolVST.vst
+samplescience,com.maizesoft.msp,Sitar Renaissance v2 macOS VST/Sitar Renaissance v2.vst
+samplescience,com.maizesoft.msp,808XD Mac VST/808XD.vst
+samplescience,com.maizesoft.msp,Room Piano v3 macOS VST v1.1/Room Piano v3.vst
+samplescience,com.maizesoft.msp,Lo-Fi VaporTones v1.1 macOS VST/LoFi Vaportones.vst
+samplescience,com.maizesoft.msp,Quiet Piano.vst
+samplescience,com.maizesoft.msp,606 Koncept Pro macOS VST v1.0/606 Koncept Pro.vst
+samplescience,com.maizesoft.msp,FunkBass 3 Mac VST/FunkBass 3.vst
+samplescience,com.maizesoft.msp,Mel-Lofi 2 Mac VST/Mel-Lofi 2.vst
+samplescience,com.maizesoft.msp,Sitar Renaissance XL v1.0 macOS VST/Sitar Renaissance XL.vst
+samplescience,com.maizesoft.msp,Rain Maker.vst
+samplescience,com.maizesoft.msp,1960s Drum Kit v1.0 macOS VST/1960s Drum Kit.vst
+samplescience,com.maizesoft.msp,Nu Guzheng macOS VST v2.0/Nu Guzheng v2.vst
+samplescience,com.maizesoft.msp,UltraBasic v2 macOS VST/UltraBasic v2.vst
+samplescience,com.maizesoft.msp,Pastoral Piano v2 macOS VST v2.0/Pastoral Piano v2.vst
+samplescience,com.maizesoft.msp,Synthetic Vortices v2.0 macOS VST/Synthetic Vortices v2.vst
+samplescience,com.maizesoft.msp,SQ8ROM.vst
+samplescience,com.maizesoft.msp,Toy Keyboard v3.0 macOS VST/Toy Keyboard v3.vst
+samplescience,com.maizesoft.msp,SOLARIS GTR LITE VST MAC/Solaris GTR Lite.vst
+samplescience,com.maizesoft.msp,Serenity 2.vst
+samplescience,com.maizesoft.msp,SampleScience/Abstract Crystal Pads macOS VST v1.1/Abstract Crystal Pads.vst
+samplescience,com.maizesoft.msp,Cassette Roads macOS VST v1.4/Cassette Roads.vst
+samplescience,com.maizesoft.msp,Zither Renaissance macOS VST v2.0/Zither Renaissance v2.vst
+samplescience,com.maizesoft.msp,Analog Waveforms macOS v2.0 VST/Analog Waveforms v2.vst
+samplescience,com.maizesoft.msp,LOVE-FI LITE.vst
+samplescience,cn.maizesoft.msp.bfdrums,BFDRUMS.vst
+saschart,com.saschart.vst.dualreversedelay,dualReverseDelay.vst
+slatedigital,com.slatedigital.freshair,Slate Digital/Fresh Air.vst
+softube,com.softube.saturationknob_vst_au_protect,Softube/Saturation Knob.vst
+softube,com.softube.tubedelay_vst_au_protect,Softube/Tube Delay.vst
+softube,com.softube.dirtytape_vst_au_protect,Softube/Dirty Tape.vst
+songwish,ca.songwish.remidi2,reMIDI 2.vst
+sonicacademy,com.sonicacademy.ana2,ANA2.vst
+soniccharge,com.soniccharge.microtonicauvstmulti320,Sonic Charge/Microtonic Multi.vst
+soniccharge,com.soniccharge.synplantauvst.268,Sonic Charge/Synplant.vst
+soniccharge,com.soniccharge.microtonicauvst320,Sonic Charge/Microtonic.vst
+soniccharge,com.soniccharge.echobodeauvst.818,Sonic Charge/Echobode.vst
+soniccharge,com.soniccharge.permut8auvst.1028,Sonic Charge/Permut8.vst
+soniccharge,com.soniccharge.bitspeekauvst.1011,Sonic Charge/Bitspeek.vst
+soundevicedigital,com.soundevicedigital.frontdaw,FrontDAW.vst
+soundevicedigital,com.soundevicedigital.pluralis,Pluralis.vst
+soundevicedigital,com.soundevicedigital.autoformer,Autoformer.vst
+soundtoys,com.soundtoys.vst.echoboyjr,Soundtoys/EchoBoyJr.vst
+soundtoys,com.soundtoys.vst.echoboy,Soundtoys/EchoBoy.vst
+soundtoys,com.soundtoys.vst.crystallizer,Soundtoys/Crystallizer.vst
+spark,spark,Spark.vst
+spectrasonics,com.spectrasonics.stym,StylusRMX.vst
+spitfireaudio,com.spitfireaudio.bbcso,BBC Symphony Orchestra.vst
+spitfireaudio,com.spitfireaudio.labs,LABS.vst
+spitfireaudio,com.spitfireaudio.nok,Nok Cultural Ensemble - Tape Percussion.vst
+studio,studio.kx.carla.vst2syn,carla.vst
+studio,studio.kx.distrho.wstd_dl3y,WSTD_DL3Y.vst
+studio,studio.kx.distrho.wstd_fl3ngr,WSTD_FL3NGR.vst
+studio,studio.kx.carla.vst2fx,carlafx.vst
+studio,studio.kx.distrho.aida-x,AIDA-X.vst
+surrealmachines,com.surrealmachines.vst.diffuse,Surreal Machines/Diffuse.vst
+surrealmachines,com.surrealmachines.vst.crack,Surreal Machines/Crack.vst
+surrealmachines,com.surrealmachines.vst.impact,Surreal Machines/Impact.vst
+surrealmachines,com.surrealmachines.vst.modnetic,Surreal Machines/Modnetic.vst
+tbproaudio,com.tbproaudio.vst.dpmeter5,dpMeter5.vst
+tbproaudio,com.tbproaudio.vst.gsatplus,GSatPlus.vst
+thomasmundt,com.thomasmundt.loudmax,LoudMax.vst
+threebodyteh7s,com.threebodytech.h7s.plugin.vst,Heavier7StringsVST.vst
+threebodyteh7s,com.threebodytech.h7s.plugin.vst,HeavierFXVST.vst
+toguaudioline,ch.toguaudioline.talnoisemaker,TAL-NoiseMaker.vst
+tokyodawnlabs,com.tokyodawnlabs.tdrkotelnikov,TDR Kotelnikov.vst
+tokyodawnlabs,com.tokyodawnlabs.tdrmolotok,TDR Molotok.vst
+tokyodawnlabs,com.tokyodawnlabs.tdrnova,TDR Nova.vst
+tokyodawnlabs,com.tokyodawnlabs.tdrvosslickeq,TDR VOS SlickEQ.vst
+toneworks,com.toneworks.plugin,Catalyst.vst
+tseaudio,com.tseaudio.vst.tse808,TSE808 VST/TSE808.vst
+tytel,org.tytel.helmplugin,helm.vst
+u-he,com.u-he.tyrelln6.vst,u-he/TyrellN6.vst
+u-he,com.u-he.filterscapeq6.vst,u-he/FilterscapeQ6.vst
+u-he,com.u-he.zebrify.vst,u-he/Zebrify.vst
+u-he,com.u-he.zebrahz.vst,u-he/ZebraHZ.vst
+u-he,com.u-he.mfm2.vst,u-he/MFM2.vst
+u-he,com.u-he.filterscape.vst,u-he/Filterscape.vst
+u-he,com.u-he.bazille.vst,u-he/Bazille.vst
+u-he,com.u-he.zebra2.vst,u-he/Zebra2.vst
+u-he,com.u-he.filterscapeva.vst,u-he/FilterscapeVA.vst
+u-he,com.u-he.protoverb.vst,u-he/Protoverb.vst
+u-he,com.u-he.diva.vst,u-he/Diva.vst
+u-he,com.u-he.zrev.vst,u-he/ZRev.vst
+u-he,com.u-he.hive.vst,u-he/Hive.vst
+u-he,com.u-he.colourcopy.vst,u-he/ColourCopy.vst
+u-he,com.u-he.zebralette.vst,u-he/Zebralette.vst
+uaudio,com.uaudio.effects.uad neve 1073se legacy,Universal Audio/UAD Mono/UAD Neve 1073SE Legacy(m).vst
+uaudio,com.uaudio.effects.uad pultec eqp-1a legacy,Universal Audio/UAD Mono/UAD Pultec EQP-1A Legacy(m).vst
+uaudio,com.uaudio.effects.uad marshall plexi classic,Universal Audio/UAD Mono/UAD Marshall Plexi Classic(m).vst
+uaudio,com.uaudio.effects.uad helios type 69 legacy,Universal Audio/UAD Mono/UAD Helios Type 69 Legacy(m).vst
+uaudio,com.uaudio.effects.uad ua 610-b,Universal Audio/UAD Mono/UAD UA 610-B(m).vst
+uaudio,com.uaudio.effects.uad neve 1073 legacy,Universal Audio/UAD Mono/UAD Neve 1073 Legacy(m).vst
+uaudio,com.uaudio.effects.uad pultec eqp-1a,Universal Audio/UAD Mono/UAD Pultec EQP-1A(m).vst
+uaudio,com.uaudio.effects.uad pure plate,Universal Audio/UAD Mono/UAD Pure Plate(m).vst
+uaudio,com.uaudio.effects.uad ua 1176ln rev e,Universal Audio/UAD Mono/UAD UA 1176LN Rev E(m).vst
+uaudio,com.uaudio.effects.uad auto-tune realtime advanced,Universal Audio/UAD Mono/UAD Auto-Tune Realtime Advanced(m).vst
+uaudio,com.uaudio.effects.uad precision delay mod l,Universal Audio/UAD Mono/UAD Precision Delay Mod L(m).vst
+uaudio,com.uaudio.effects.uad manley voxbox,Universal Audio/UAD Mono/UAD Manley VOXBOX(m).vst
+uaudio,com.uaudio.effects.uad teletronix la-2a legacy,Universal Audio/UAD Mono/UAD Teletronix LA-2A Legacy(m).vst
+uaudio,com.uaudio.effects.uad pultec hlf-3c,Universal Audio/UAD Mono/UAD Pultec HLF-3C(m).vst
+uaudio,com.uaudio.effects.uad fairchild 660,Universal Audio/UAD Mono/UAD Fairchild 660(m).vst
+uaudio,com.uaudio.effects.uad ampeg svtvr classic,Universal Audio/UAD Mono/UAD Ampeg SVTVR Classic(m).vst
+uaudio,com.uaudio.effects.uad ua 1176ln legacy,Universal Audio/UAD Mono/UAD UA 1176LN Legacy(m).vst
+uaudio,com.uaudio.effects.uad cs-1,Universal Audio/UAD Mono/UAD CS-1(m).vst
+uaudio,com.uaudio.effects.uad realverb-pro,Universal Audio/UAD Mono/UAD RealVerb-Pro(m).vst
+uaudio,com.uaudio.effects.uad fairchild 670 legacy,Universal Audio/UAD Mono/UAD Fairchild 670 Legacy(m).vst
+uaudio,com.uaudio.effects.uad raw,Universal Audio/UAD Mono/UAD Raw(m).vst
+uaudio,com.uaudio.effects.uad ua 1176se legacy,Universal Audio/UAD Mono/UAD UA 1176SE Legacy(m).vst
+uaudio,com.uaudio.effects.uad precision reflection engine,Universal Audio/UAD Mono/UAD Precision Reflection Engine(m).vst
+uaudio,com.uaudio.effects.uad ua 1176ae,Universal Audio/UAD Mono/UAD UA 1176AE(m).vst
+uaudio,com.uaudio.effects.uad fairchild 670,Universal Audio/UAD Mono/UAD Fairchild 670(m).vst
+uaudio,com.uaudio.effects.uad galaxy tape echo,Universal Audio/UAD Mono/UAD Galaxy Tape Echo(m).vst
+uaudio,com.uaudio.effects.uad teletronix la-2a gray,Universal Audio/UAD Mono/UAD Teletronix LA-2A Gray(m).vst
+uaudio,com.uaudio.effects.uad precision delay mod,Universal Audio/UAD Mono/UAD Precision Delay Mod(m).vst
+uaudio,com.uaudio.effects.uad teletronix la-2,Universal Audio/UAD Mono/UAD Teletronix LA-2(m).vst
+uaudio,com.uaudio.effects.uad precision channel strip,Universal Audio/UAD Mono/UAD Precision Channel Strip(m).vst
+uaudio,com.uaudio.effects.uad century tube channel strip,Universal Audio/UAD Mono/UAD Century Tube Channel Strip(m).vst
+uaudio,com.uaudio.effects.uad pultec-pro legacy,Universal Audio/UAD Mono/UAD Pultec-Pro Legacy(m).vst
+uaudio,com.uaudio.effects.uad ua 1176 rev a,Universal Audio/UAD Mono/UAD UA 1176 Rev A(m).vst
+uaudio,com.uaudio.effects.uad neve 1073,Universal Audio/UAD Mono/UAD Neve 1073(m).vst
+uaudio,com.uaudio.effects.uad ua 610-a,Universal Audio/UAD Mono/UAD UA 610-A(m).vst
+uaudio,com.uaudio.effects.uad helios type 69,Universal Audio/UAD Mono/UAD Helios Type 69(m).vst
+uaudio,com.uaudio.effects.uad pultec meq-5,Universal Audio/UAD Mono/UAD Pultec MEQ-5(m).vst
+uaudio,com.uaudio.effects.uad teletronix la-2a silver,Universal Audio/UAD Mono/UAD Teletronix LA-2A Silver(m).vst
+uaudio,com.uaudio.console recall,Universal Audio/UAD Console/Console Recall.vst
+ueberschall,com.ueberschall.elastikplayer,Elastik 3.vst
+ujam,com.ujam.vgcarbon,UJAM/VG-CARBON.vst
+ujam,com.ujam.vgamber2,UJAM/VG-AMBER2.vst
+ujam,com.ujam.finvood,UJAM/FIN-VOOD.vst
+ujam,com.ujam.vgiron2,UJAM/VG-IRON2.vst
+ujam,com.ujam.synframe,UJAM/USYNTH.vst
+ujam,com.ujam.vdphat,UJAM/VD-PHAT.vst
+ujam,com.ujam.gmone,UJAM/GM-ONE.vst
+unfilteredaudio,com.unfilteredaudio.lion,Plugin Alliance/Unfiltered Audio LION.vst
+uvi,net.uvi.dualdelayx,DualDelayX.vst
+uvisoundsource,com.uvisoundsource.uviworkstationvst,UVIWorkstationVST.vst
+valhalladsp,com.valhalladsp.valhallasupermassive,ValhallaSupermassive.vst
+valhalladsp,com.valhalladsp.valhallaspacemodulator,ValhallaSpaceModulator.vst
+valhalladsp,com.valhalladsp.valhallafreqecho,ValhallaFreqEcho.vst
+valhalladsp,com.valhalladsp.valhalladelay,ValhallaDelay.vst
+vcvrack,com.vcvrack.rack,VCV Rack 2.vst
+vcvrack,com.vcvrack.rack,VCV Rack 2 FX.vst
+voxengo,com.voxengo.audio-plugins.vst2.overtonegeq,Overtone GEQ.vst
+voxengo,com.voxengo.audio-plugins.vst2.marvelgeq,Marvel GEQ.vst
+voxengo,com.voxengo.audio-plugins.vst2.tempodelay,Tempo Delay.vst
+waproduction,com.waproduction.babylon,Babylon.vst
+wavesfactory,com.wavesfactory.trackspacer25,Trackspacer25.vst
+wavesfactory,com.wavesfactory.flash,Flash.vst
+wavesfactory,com.wavesfactory.echocat,Echo Cat.vst
+wizoo,com.wizoo.xpand2,Xpand!2.vst
+wizoo,com.wizoo.vacuumpro,VacuumPro.vst
+wizoo,com.wizoo.hybrid,Hybrid.vst
+xfer,com.xfer.serum.vst,KORG/Serum.vst
+xfer,com.xfer.cthulhu.vst,Cthulhu.vst
+xfer,com.xfer.ott.vst,OTT.vst
+xfer,com.xfer.serum.vst,Serum.vst
+xfer,com.xfer.8bitshaper,8BitShaper.vst
+xfer,com.xfer.serumfx.vst,SerumFX.vst
+xfer,com.xfer.dimexp.vst,DimensionExpander.vst
+xfer,com.xfer.deltamodulator,DeltaModulator.vst
+xhip,com.xhip,Xhip.vst
+xlnaudio,com.xlnaudio.ds10drumshaper,DS-10 Drum Shaper.vst
+xlnaudio,com.xlnaudio.addictivedrums2,Addictive Drums 2.vst
+xlnaudio,com.xlnaudio.rc20retrocolor,RC-20 Retro Color.vst
+xlnaudio,com.xlnaudio.addictivetrigger,Addictive Trigger.vst
+xlnaudio,com.xlnaudio.xo,XO.vst
+xlnaudio,com.xlnaudio.addictivekeys,Addictive Keys.vst
+yoozmusic,com.yoozmusic.vst.yoozbl303,YoozBL303(x64).vst
+yourcompany,com.yourcompany.freemod,FreeMod.vst
+yourcompany,com.yourcompany.abpl2,ABPL2.vst
