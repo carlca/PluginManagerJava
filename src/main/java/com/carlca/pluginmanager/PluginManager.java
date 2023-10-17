@@ -120,6 +120,7 @@ public class PluginManager extends JFrame {
 				PluginManagerTableModel treeTableModel = new PluginManagerTableModel(root, false);
 				// Assign the pluginTable to the tree model
 				treeTableModel.bindTable(pluginTable);
+				
  				// clear progress caption
 				progressCaption.setText("");
 				// Set the cursor back to the default cursor
