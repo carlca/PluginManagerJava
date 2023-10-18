@@ -1,19 +1,20 @@
 package com.carlca.pluginmanager;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Plugin {
 
 	private String manufacturer;
 	private String ident;
 	private String plugin;
-	private final ArrayList<Object> children;
+	private final ArrayList<Plugin> children;
 
 	public Plugin(String manufacturer, String ident, String plugin) {
 		this.manufacturer = manufacturer;
 		this.ident = ident;
 		this.plugin = plugin;
-		children = new ArrayList<Object>();
+		children = new ArrayList<Plugin>();
 	}
 
 	public String getManufacturer() {
@@ -44,11 +45,11 @@ public class Plugin {
 		children.add(child);
 	}
 
-	public void addChildren(Object children) {
-		this.children.add(children);
+	public void addChildren(List<Plugin> children) {
+		this.children.addAll(children);
 	}
 
-	public ArrayList<Object> getChildren() {
+	public ArrayList<Plugin> getChildren() {
 		return children;
 	}
 
