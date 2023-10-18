@@ -49,13 +49,7 @@ public class PluginManagerTableModel extends TreeTableModel {
 
 	@Override
 	public Object getColumnValue(TreeNode node, int column) {
-		Plugin plugin = TreeUtils.getUserObject(node);
-		return switch (column) {
-			case 0 -> plugin.getManufacturer();
-			case 1 -> plugin.getIdent();
-			case 2 -> plugin.getPlugin();
-			default -> null;
-		};
+		return TreeUtils.getUserObject(node);
 	}
 
 	@Override
@@ -128,23 +122,23 @@ public class PluginManagerTableModel extends TreeTableModel {
 //		return null;
 //	}
 
-	@Override
-	public Object getValueAt(int row, int column) {
-		DefaultMutableTreeNode node = (DefaultMutableTreeNode) treeModel.getChild(treeModel.getRoot(), row);
-		Object obj = node.getUserObject();
-		String className = node.getClass().getName();
-		System.out.println("Class name: " + className);
-		if (column == 0) {
-			return node.getUserObject();
-		} else if (column == 1) {
-			// Return data for Extra Column 1
-			return "Extra Data 1";
-		} else if (column == 2) {
-			// Return data for Extra Column 2
-			return "Extra Data 2";
-		}
-		return null;
-	}
+//	@Override
+//	public Object getValueAt(int row, int column) {
+//		DefaultMutableTreeNode node = (DefaultMutableTreeNode) treeModel.getChild(treeModel.getRoot(), row);
+//		Object obj = node.getUserObject();
+//		String className = node.getClass().getName();
+//		System.out.println("Class name: " + className);
+//		if (column == 0) {
+//			return node.getUserObject();
+//		} else if (column == 1) {
+//			// Return data for Extra Column 1
+//			return "Extra Data 1";
+//		} else if (column == 2) {
+//			// Return data for Extra Column 2
+//			return "Extra Data 2";
+//		}
+//		return null;
+//	}
 
 	@Override
 	public String getColumnName(int column) {
