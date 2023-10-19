@@ -1,8 +1,5 @@
 package com.carlca.pluginmanager;
 
-import org.javatuples.Triplet;
-import org.jetbrains.annotations.NotNull;
-
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableCellRenderer;
@@ -15,7 +12,10 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicReference;
-import net.byteseek.swing.treetable.TreeTableModel;
+
+import org.javatuples.Triplet;
+import org.jetbrains.annotations.NotNull;
+import org.javatuples.Pair;
 
 public class PluginManager extends JFrame {
 	private JTable pluginGrid;
@@ -108,7 +108,7 @@ public class PluginManager extends JFrame {
 					// Find or create the manufacturer node
 					DefaultMutableTreeNode manufacturerNode = findOrCreateManufacturerNode(root, manufacturer);
 					// Create the plugin node
-					DefaultMutableTreeNode pluginNode = new DefaultMutableTreeNode(pluginName);
+					DefaultMutableTreeNode pluginNode = new DefaultMutableTreeNode(new Pair<>(ident, pluginName));
 					// Add the plugin node to the manufacturer node
 					manufacturerNode.add(pluginNode);
 					pluginNode.setAllowsChildren(false);

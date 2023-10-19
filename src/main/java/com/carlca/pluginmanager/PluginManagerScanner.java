@@ -13,12 +13,8 @@ import org.w3c.dom.*;
 import org.xml.sax.SAXException;
 
 import org.javatuples.Triplet;
-import org.json.JSONObject;
 
 public class PluginManagerScanner {
-
-	// private fields
-	private PluginManagerFileCounter fileCounter;
 
 	// property fields
 	private String csvFileName;
@@ -42,7 +38,6 @@ public class PluginManagerScanner {
 
 	// constructor
 	public PluginManagerScanner() {
-		fileCounter = new PluginManagerFileCounter();
 		utils = new PluginManagerScannerUtils();
 	}
 

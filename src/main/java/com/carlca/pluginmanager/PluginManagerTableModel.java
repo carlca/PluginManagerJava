@@ -1,17 +1,14 @@
 package com.carlca.pluginmanager;
 
 import javax.swing.*;
-import javax.swing.table.AbstractTableModel;
 import javax.swing.table.DefaultTableColumnModel;
 import javax.swing.table.TableColumnModel;
-import javax.swing.tree.DefaultMutableTreeNode;
-import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 
-import net.byteseek.swing.treetable.TreeTableHeaderRenderer;
 import net.byteseek.swing.treetable.TreeTableModel;
 import net.byteseek.swing.treetable.TreeUtils;
+import org.javatuples.Pair;
 
 public class PluginManagerTableModel extends TreeTableModel {
 
@@ -27,13 +24,12 @@ public class PluginManagerTableModel extends TreeTableModel {
 	}
 
 	private final ArrayList<Integer> colWidths = new ArrayList<>();
-	private final String LINE = new String(new char[2000]).replace('\0', '-');
+		private String boxLine = new String(new char[2000]).replace('\0', '─');
 
 	public PluginManagerTableModel(TreeNode rootNode, boolean showRoot) {
 		super(rootNode, showRoot);
-		// Create the DefaultTreeModel with the root node
-		//treeModel = new DefaultTreeModel(rootNode);
-
+		// initialise LINE
+		boxLine = "──────────".repeat(1000);
 		// Define the column names
 		columnNames = new ArrayList<String>();
 		columnNames.add("Manufacturer");
@@ -45,7 +41,7 @@ public class PluginManagerTableModel extends TreeTableModel {
 	public boolean isCellEditable(final int rowIndex, final int columnIndex) {
 		return false; // No cells are editable
 	}
-
+	                                                                                  
 	@Override
 	public Class<?> getColumnClass(final int columnIndex) {
 		if (columnIndex >= 0 && columnIndex <= 2) {
@@ -59,20 +55,17 @@ public class PluginManagerTableModel extends TreeTableModel {
 		// if childCount - 0 then this is a pluginNode
 		// otherwise it is a manufacturerNode
 		if (!node.getAllowsChildren()) {
+			Pair<?, ?> pair = TreeUtils.getUserObject(node);
 			return switch(column) {
-				case 0 -> getColumn0Line();
-				case 1 -> getColWidths().get(0).toString() + " " + (getColumn0Line().length() - 1);
-				case 2 -> TreeUtils.getUserObject(node);
+				case 1 -> pair.getValue0();
+				case 2 -> pair.getValue1();
 				default -> "";
 			};
 		}
-		return TreeUtils.getUserObject(node);
-	}
-
-	private String getColumn0Line() {
-		int colWidth = colWidths.get(0);
-		int dashCount = (colWidth * 5 / 34) - (330 / 34);
-		return "+" + LINE.substring(0, dashCount);
+		if (column == 0) {
+			return TreeUtils.getUserObject(node);
+		};
+		return "";
 	}
 
 	@Override
