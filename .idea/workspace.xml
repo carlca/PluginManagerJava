@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="82778de5-9bdb-421d-be9e-350cbfad907c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerDemoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerDemoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerScannerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerScannerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerTableModel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "283",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;283&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PluginManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.carlca.pluginmanager.PluginManager" />
@@ -86,7 +90,8 @@
       <updated>1697493557634</updated>
       <workItem from="1697493560461" duration="3078000" />
       <workItem from="1697553537253" duration="8455000" />
-      <workItem from="1697655949127" duration="5999000" />
+      <workItem from="1697655949127" duration="6632000" />
+      <workItem from="1697716502073" duration="7114000" />
     </task>
     <servers />
   </component>

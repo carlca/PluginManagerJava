@@ -21,6 +21,7 @@ public class PluginManagerTableModel extends TreeTableModel {
 
 	private final DefaultTreeModel treeModel;
 	private final ArrayList<String> columnNames;
+	private final String LINE = "+" + new String(new char[2000]).replace('\0', '-');
 
 	public PluginManagerTableModel(TreeNode rootNode, boolean showRoot) {
 		super(rootNode, showRoot);
@@ -49,6 +50,16 @@ public class PluginManagerTableModel extends TreeTableModel {
 
 	@Override
 	public Object getColumnValue(TreeNode node, int column) {
+		// if childCount - 0 then this is a pluginNode
+		// otherwise it is a manufacturerNode
+		if (!node.getAllowsChildren()) {
+			return switch(column) {
+				case 0 -> LINE;
+				case 1 -> "Manufacturer";
+				case 2 -> TreeUtils.getUserObject(node);
+				default -> "";
+			};
+		}
 		return TreeUtils.getUserObject(node);
 	}
 

@@ -60,9 +60,4 @@ public class PluginManagerDemoData {
 		}
 		return new Triplet<>("invalid","invalid","invalid");
 	}
-
 }
-
-/*
-
-*/

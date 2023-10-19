@@ -12,7 +12,7 @@ public class PluginManagerScannerUtils {
 
   public void sortPluginTripletsByManufacturerAndPlugin(List<Triplet<String, String, String>> plugins) {
     plugins.sort(Comparator.comparing((Triplet<String, String, String> triplet) -> 
-            triplet.getValue0()).thenComparing(triplet -> triplet.getValue2()));
+            triplet.getValue0()).thenComparing(Triplet::getValue2));
   }
 	
 	public String createManufacturer(String ident, String plugin, String pluginType) {

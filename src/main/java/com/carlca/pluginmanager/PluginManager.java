@@ -4,6 +4,8 @@ import org.javatuples.Triplet;
 import org.jetbrains.annotations.NotNull;
 
 import javax.swing.*;
+import javax.swing.table.DefaultTableCellRenderer;
+import javax.swing.table.TableCellRenderer;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeNode;
@@ -106,6 +108,7 @@ public class PluginManager extends JFrame {
 					DefaultMutableTreeNode pluginNode = new DefaultMutableTreeNode(pluginName);
 					// Add the plugin node to the manufacturer node
 					manufacturerNode.add(pluginNode);
+					pluginNode.setAllowsChildren(false);
 				}
 
 				// OLD WAY USING JTREE
@@ -120,6 +123,30 @@ public class PluginManager extends JFrame {
 				PluginManagerTableModel treeTableModel = new PluginManagerTableModel(root, false);
 				// Assign the pluginTable to the tree model
 				treeTableModel.bindTable(pluginTable);
+
+				// create column width change listener
+				pluginTable.addPropertyChangeListener(evt -> {
+					if ("columnWidth".equals(evt.getPropertyName())) {
+						int column = pluginTable.getColumnModel().getColumnIndexAtX((Integer)evt.getNewValue());
+						if (column == 0) {
+							// Get the cell renderer for the column
+							TableCellRenderer renderer = pluginTable.getColumnModel().getColumn(column).getCellRenderer();
+							// Update the cell renderer to modify the text
+							pluginTable.getColumnModel().getColumn(column).setCellRenderer(new DefaultTableCellRenderer() {
+								@Override
+								public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {
+									// Modify the text of the cell contents
+									value = "New Text";
+
+									// Call the super method to perform default rendering
+									return super.getTableCellRendererComponent(table, value, isSelected, hasFocus, row, column);
+								}
+							});
+							// Repaint the table to reflect the changes
+							pluginTable.repaint();
+						}
+					}
+				});
 				
  				// clear progress caption
 				progressCaption.setText("");
