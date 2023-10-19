@@ -6,10 +6,13 @@ import org.jetbrains.annotations.NotNull;
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableCellRenderer;
+import javax.swing.table.TableColumn;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeNode;
 import java.awt.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicReference;
 import net.byteseek.swing.treetable.TreeTableModel;
@@ -123,31 +126,14 @@ public class PluginManager extends JFrame {
 				PluginManagerTableModel treeTableModel = new PluginManagerTableModel(root, false);
 				// Assign the pluginTable to the tree model
 				treeTableModel.bindTable(pluginTable);
-
-				// create column width change listener
-				pluginTable.addPropertyChangeListener(evt -> {
-					if ("columnWidth".equals(evt.getPropertyName())) {
-						int column = pluginTable.getColumnModel().getColumnIndexAtX((Integer)evt.getNewValue());
-						if (column == 0) {
-							// Get the cell renderer for the column
-							TableCellRenderer renderer = pluginTable.getColumnModel().getColumn(column).getCellRenderer();
-							// Update the cell renderer to modify the text
-							pluginTable.getColumnModel().getColumn(column).setCellRenderer(new DefaultTableCellRenderer() {
-								@Override
-								public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {
-									// Modify the text of the cell contents
-									value = "New Text";
-
-									// Call the super method to perform default rendering
-									return super.getTableCellRendererComponent(table, value, isSelected, hasFocus, row, column);
-								}
-							});
-							// Repaint the table to reflect the changes
-							pluginTable.repaint();
-						}
-					}
-				});
-				
+				updatePluginTableColWidths(treeTableModel);
+				pluginTable.repaint();
+				// listen for pluginTable mouse events
+				pluginTable.getTableHeader().addMouseListener( new MouseAdapter() {
+					public void mouseReleased(MouseEvent arg0) {
+						updatePluginTableColWidths(treeTableModel);
+						pluginTable.repaint();
+					}});
  				// clear progress caption
 				progressCaption.setText("");
 				// Set the cursor back to the default cursor
@@ -156,7 +142,14 @@ public class PluginManager extends JFrame {
 				updateButton.setEnabled(true);
 			}
 		};
-	};
+	}
+
+	private void updatePluginTableColWidths(PluginManagerTableModel treeTableModel) {
+		treeTableModel.clearColWidths();
+		for (TableColumn column : Collections.list(pluginTable.getColumnModel().getColumns())) {
+			treeTableModel.getColWidths().add(column.getWidth());
+		}
+	}
 
 	// Helper method to find or create the manufacturer node
 	private static DefaultMutableTreeNode findOrCreateManufacturerNode(DefaultMutableTreeNode root, String manufacturer) {

@@ -19,14 +19,20 @@ public class PluginManagerTableModel extends TreeTableModel {
 	private Icon openIcon;              // tree node displaying children.
 	private Icon closedIcon;            // tree node not displaying children.
 
-	private final DefaultTreeModel treeModel;
+	//private final DefaultTreeModel treeModel;
 	private final ArrayList<String> columnNames;
-	private final String LINE = "+" + new String(new char[2000]).replace('\0', '-');
+
+	public ArrayList<Integer> getColWidths() {
+		return colWidths;
+	}
+
+	private final ArrayList<Integer> colWidths = new ArrayList<>();
+	private final String LINE = new String(new char[2000]).replace('\0', '-');
 
 	public PluginManagerTableModel(TreeNode rootNode, boolean showRoot) {
 		super(rootNode, showRoot);
 		// Create the DefaultTreeModel with the root node
-		treeModel = new DefaultTreeModel(rootNode);
+		//treeModel = new DefaultTreeModel(rootNode);
 
 		// Define the column names
 		columnNames = new ArrayList<String>();
@@ -54,13 +60,19 @@ public class PluginManagerTableModel extends TreeTableModel {
 		// otherwise it is a manufacturerNode
 		if (!node.getAllowsChildren()) {
 			return switch(column) {
-				case 0 -> LINE;
-				case 1 -> "Manufacturer";
+				case 0 -> getColumn0Line();
+				case 1 -> getColWidths().get(0).toString() + " " + (getColumn0Line().length() - 1);
 				case 2 -> TreeUtils.getUserObject(node);
 				default -> "";
 			};
 		}
 		return TreeUtils.getUserObject(node);
+	}
+
+	private String getColumn0Line() {
+		int colWidth = colWidths.get(0);
+		int dashCount = (colWidth * 5 / 34) - (330 / 34);
+		return "+" + LINE.substring(0, dashCount);
 	}
 
 	@Override
@@ -81,6 +93,10 @@ public class PluginManagerTableModel extends TreeTableModel {
 			return leafIcon;
 		}
 		return null;
+	}
+
+	public void clearColWidths() {
+		colWidths.clear();
 	}
 
 	private void setIcons() {
