@@ -10,10 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82778de5-9bdb-421d-be9e-350cbfad907c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pluginmanager_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/pluginmanager_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/MacOS/JarPackager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/PkgInfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/Icon.icns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/en.lproj/Credits.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/en.lproj/InfoPlist.strings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/en.lproj/MainMenu.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/launcher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/_MASReceipt/receipt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.icns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product/1 Make App/onlinepngtools.com:round-png-corners.webloc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product/1 Make App/plug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product/1 Make App/plug_rounded.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product/2 Make DMG/Input/Applications" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginCountedHandler.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerNotifier.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerTableModel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +54,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="temurin-21" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -51,25 +71,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;283&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/carlcaulkett/Code/Java/PluginManager&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "283",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/carlcaulkett/Code/Java/PluginManager",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="PluginManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.carlca.pluginmanager.PluginManager" />
@@ -108,7 +129,14 @@
       <workItem from="1697827103900" duration="1700000" />
       <workItem from="1697835207350" duration="75000" />
       <workItem from="1697835306121" duration="4950000" />
-      <workItem from="1697874312959" duration="2603000" />
+      <workItem from="1697874312959" duration="16428000" />
+      <workItem from="1697907598845" duration="663000" />
+      <workItem from="1697908525634" duration="319000" />
+      <workItem from="1697908856810" duration="76000" />
+      <workItem from="1697908946952" duration="87000" />
+      <workItem from="1697909334212" duration="23000" />
+      <workItem from="1697909369268" duration="1136000" />
+      <workItem from="1697916847059" duration="66000" />
     </task>
     <servers />
   </component>

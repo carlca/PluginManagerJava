@@ -1,7 +1,6 @@
 package com.carlca.pluginmanager;
 
 import javax.swing.*;
-import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableColumn;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
@@ -52,9 +51,6 @@ public class PluginManager extends JFrame {
 		setLocationRelativeTo(null);
 		removeDummyTreeNodes();
 		setVisible(true);
-
-
-
 		pluginTable.setRowHeight(20);
 		DefaultComboBoxModel<String> model = (DefaultComboBoxModel<String>) pluginTypeSelector.getModel();
 		for (String type : getPluginTypes()) {

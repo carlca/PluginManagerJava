@@ -7,10 +7,9 @@
       </element>
       <element id="module-output" name="pluginmanager" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20230227/json-20230227.jar" path-in-jar="/" />
-      <element id="library" level="project" name="Maven: net.byteseek.swing.treetable:treetable:1.0-SNAPSHOT" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/3.2.1/flatlaf-3.2.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javatuples/javatuples/1.2/javatuples-1.2.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/lib/jrt-fs.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

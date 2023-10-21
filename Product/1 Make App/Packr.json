@@ -1,0 +1,21 @@
+{
+  "platform": "mac",
+  "jdk": "/Users/badlogic/Downloads/OpenJDK8U-jdk_x64_mac_hotspot_8u252b09.tar.gz",
+  "executable": "myapp",
+  "classpath": [
+    "Plugin Manager.jar"
+  ],
+  "removelibs": [
+    "myjar.jar"
+  ],
+  "mainclass": "com.my.app.MainClass",
+  "vmargs": [
+    "Xmx1G"
+  ],
+  "resources": [
+    "src/main/resources",
+    "path/to/other/assets"
+  ],
+  "minimizejre": "soft",
+  "output": "out-mac"
+}

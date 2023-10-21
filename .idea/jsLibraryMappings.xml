@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Ableton Live 11.3 Beta.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/Node for Max/source/bin/npm/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Ableton Live 11.3 Beta.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/Node for Max/source/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Ableton Live 11.3 Beta.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/RNBO/server/deps/@rnbo/target-base/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Ableton Live 11.3 Beta.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/RNBO/server/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/Node for Max/source/bin/npm/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/Node for Max/source/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/RNBO/server/deps/@rnbo/target-base/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Max/Max.app/Contents/Resources/C74/packages/RNBO/server/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Apache NetBeans.app/Contents/Resources/netbeans/webcommon/typescript-lsp/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Cursor.app/Contents/Resources/app/extensions/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/GitKraken.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Left.app/Contents/Resources/app/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Lockpick.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Native Access 3.6.2/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Native Access 3.6.2/Contents/Resources/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Obsidian.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Pulse.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Raycast.app/Contents/Resources/RaycastCommands_RaycastCommands.bundle/Contents/Resources/api/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Skiff Desktop.app/Contents/Resources/assets/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Slack.app/Contents/Resources/app-arm64.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Slack.app/Contents/Resources/app-x64.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Slate Digital Connect.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Slate Digital Connect.app/Contents/Resources/sudo-service/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Softube Central.app/Contents/Resources/app-arm64.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Softube Central.app/Contents/Resources/app-x64.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Steven Slate Audio Center.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/StudioRack App.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/UJAM.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/Universal Audio/UA Connect.app/Contents/Resources/app.asar.unpacked/node_modules" />
+    <excludedPredefinedLibrary name="PluginManager/Product/2 Make DMG/Input/Applications/inMusic Software Center.app/Contents/Resources/app/node_modules" />
+  </component>
+</project>

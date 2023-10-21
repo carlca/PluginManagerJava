@@ -1,7 +1,6 @@
 package com.carlca.pluginmanager;
 
 import java.awt.event.KeyEvent;
-import java.util.Comparator;
 import javax.swing.*;
 import javax.swing.table.DefaultTableColumnModel;
 import javax.swing.table.TableColumnModel;
