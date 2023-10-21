@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pluginmanager:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82778de5-9bdb-421d-be9e-350cbfad907c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerScanner.java" afterDir="false" />
@@ -54,9 +58,14 @@
     &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;283&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/carlcaulkett/Code/Java/PluginManager&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -93,7 +102,13 @@
       <workItem from="1697553537253" duration="8455000" />
       <workItem from="1697655949127" duration="6632000" />
       <workItem from="1697716502073" duration="22403000" />
-      <workItem from="1697743980884" duration="1819000" />
+      <workItem from="1697743980884" duration="3066000" />
+      <workItem from="1697748697121" duration="106000" />
+      <workItem from="1697751499752" duration="14756000" />
+      <workItem from="1697827103900" duration="1700000" />
+      <workItem from="1697835207350" duration="75000" />
+      <workItem from="1697835306121" duration="4950000" />
+      <workItem from="1697874312959" duration="2603000" />
     </task>
     <servers />
   </component>

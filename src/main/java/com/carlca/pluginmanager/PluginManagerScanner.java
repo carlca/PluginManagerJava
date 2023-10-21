@@ -1,8 +1,6 @@
 package com.carlca.pluginmanager;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import javax.xml.parsers.*;

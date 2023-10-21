@@ -87,11 +87,12 @@
             </properties>
             <border type="none"/>
             <children>
-              <component id="5d86b" class="javax.swing.JTable" binding="pluginTable">
+              <component id="5d86b" class="javax.swing.JTable" binding="pluginTable" custom-create="true">
                 <constraints/>
                 <properties>
                   <autoCreateRowSorter value="true"/>
                   <font/>
+                  <visible value="true"/>
                 </properties>
               </component>
             </children>
@@ -100,12 +101,17 @@
             <constraints>
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
             </constraints>
-            <properties/>
+            <properties>
+              <enabled value="true"/>
+              <visible value="false"/>
+            </properties>
             <border type="none"/>
             <children>
               <component id="6ddc8" class="javax.swing.JTree" binding="pluginTree">
                 <constraints/>
-                <properties/>
+                <properties>
+                  <visible value="false"/>
+                </properties>
               </component>
             </children>
           </scrollpane>

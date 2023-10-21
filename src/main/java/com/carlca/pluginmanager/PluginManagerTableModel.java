@@ -1,5 +1,7 @@
 package com.carlca.pluginmanager;
 
+import java.awt.event.KeyEvent;
+import java.util.Comparator;
 import javax.swing.*;
 import javax.swing.table.DefaultTableColumnModel;
 import javax.swing.table.TableColumnModel;
@@ -12,11 +14,11 @@ import org.javatuples.Pair;
 
 public class PluginManagerTableModel extends TreeTableModel {
 
-	private Icon leafIcon;              // tree node that allows no children.
-	private Icon openIcon;              // tree node displaying children.
-	private Icon closedIcon;            // tree node not displaying children.
+	private Icon leafIcon; // tree node that allows no children.
+	private Icon openIcon; // tree node displaying children.
+	private Icon closedIcon; // tree node not displaying children.
 
-	//private final DefaultTreeModel treeModel;
+	// private final DefaultTreeModel treeModel;
 	private final ArrayList<String> columnNames;
 
 	public ArrayList<Integer> getColWidths() {
@@ -24,24 +26,24 @@ public class PluginManagerTableModel extends TreeTableModel {
 	}
 
 	private final ArrayList<Integer> colWidths = new ArrayList<>();
-		private String boxLine = new String(new char[2000]).replace('\0', '─');
 
 	public PluginManagerTableModel(TreeNode rootNode, boolean showRoot) {
 		super(rootNode, showRoot);
-		// initialise LINE
-		boxLine = "──────────".repeat(1000);
+		setIcons();
 		// Define the column names
 		columnNames = new ArrayList<String>();
 		columnNames.add("Manufacturer");
 		columnNames.add("Ident");
 		columnNames.add("Plugin");
+		setExpandKeys(KeyStroke.getKeyStroke(KeyEvent.VK_RIGHT, 0));
+		setCollapseKeys(KeyStroke.getKeyStroke(KeyEvent.VK_LEFT, 0));
 	}
 
-	@Override
+  @Override
 	public boolean isCellEditable(final int rowIndex, final int columnIndex) {
 		return false; // No cells are editable
 	}
-	                                                                                  
+
 	@Override
 	public Class<?> getColumnClass(final int columnIndex) {
 		if (columnIndex >= 0 && columnIndex <= 2) {
@@ -56,7 +58,7 @@ public class PluginManagerTableModel extends TreeTableModel {
 		// otherwise it is a manufacturerNode
 		if (!node.getAllowsChildren()) {
 			Pair<?, ?> pair = TreeUtils.getUserObject(node);
-			return switch(column) {
+			return switch (column) {
 				case 1 -> pair.getValue0();
 				case 2 -> pair.getValue1();
 				default -> "";
@@ -64,7 +66,8 @@ public class PluginManagerTableModel extends TreeTableModel {
 		}
 		if (column == 0) {
 			return TreeUtils.getUserObject(node);
-		};
+		}
+		;
 		return "";
 	}
 
@@ -83,7 +86,8 @@ public class PluginManagerTableModel extends TreeTableModel {
 			if (node.getAllowsChildren()) {
 				return isExpanded(node) ? openIcon : closedIcon;
 			}
-			return leafIcon;
+			return null;
+			// return leafIcon;
 		}
 		return null;
 	}
@@ -98,7 +102,8 @@ public class PluginManagerTableModel extends TreeTableModel {
 			setOpenIcon(UIManager.getIcon("FileView.directoryIcon"));
 			setClosedIcon(UIManager.getIcon("FileView.directoryIcon"));
 		} else {
-			// Leaf, open and closed icons not available in all look and feels...not in GTK, but is in metal...
+			// Leaf, open and closed icons not available in all look and feels...not in GTK,
+			// but is in metal...
 			setLeafIcon(UIManager.getIcon("Tree.leafIcon"));
 			setOpenIcon(UIManager.getIcon("Tree.openIcon"));
 			setClosedIcon(UIManager.getIcon("Tree.closedIcon"));
@@ -127,4 +132,3 @@ public class PluginManagerTableModel extends TreeTableModel {
 		return columnNames.get(column);
 	}
 }
-
