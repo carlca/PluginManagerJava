@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="pluginmanager:jar" />
+      <artifact name="Plugin Manager:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,27 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82778de5-9bdb-421d-be9e-350cbfad907c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pluginmanager_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/pluginmanager_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pluginmanager_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/MacOS/JarPackager" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/Icon.icns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/en.lproj/Credits.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/en.lproj/InfoPlist.strings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/en.lproj/MainMenu.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/Resources/launcher" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.app/Contents/_MASReceipt/receipt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PluginManager.icns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/onlinepngtools.com:round-png-corners.webloc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/plug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/plug_rounded.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/2 Make DMG/Input/Applications" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginCountedHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerNotifier.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManagerTableModel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,26 +54,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "283",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/carlcaulkett/Code/Java/PluginManager",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;283&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/carlcaulkett/Code/Java/PluginManager&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PluginManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.carlca.pluginmanager.PluginManager" />
@@ -137,6 +120,12 @@
       <workItem from="1697909334212" duration="23000" />
       <workItem from="1697909369268" duration="1136000" />
       <workItem from="1697916847059" duration="66000" />
+      <workItem from="1697981129037" duration="141000" />
+      <workItem from="1697981286139" duration="179000" />
+      <workItem from="1697987003024" duration="1797000" />
+      <workItem from="1698003526329" duration="65000" />
+      <workItem from="1698003641843" duration="698000" />
+      <workItem from="1698006028368" duration="1376000" />
     </task>
     <servers />
   </component>

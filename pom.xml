@@ -32,12 +32,6 @@
             <version>RELEASE</version>
             <scope>compile</scope>
         </dependency>
-<!--        <dependency>-->
-<!--            <groupId>org.eclipse.temurin</groupId>-->
-<!--            <artifactId>temurin</artifactId>-->
-<!--            <version>21</version>-->
-<!--            <scope>provided</scope>-->
-<!--        </dependency>-->
     </dependencies>
 
     <build>

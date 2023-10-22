@@ -31,9 +31,8 @@ public class PluginManagerTableModel extends TreeTableModel {
 		setIcons();
 		// Define the column names
 		columnNames = new ArrayList<String>();
-		columnNames.add("Manufacturer");
+		columnNames.add("Manufacturer/Plugin");
 		columnNames.add("Ident");
-		columnNames.add("Plugin");
 		setExpandKeys(KeyStroke.getKeyStroke(KeyEvent.VK_RIGHT, 0));
 		setCollapseKeys(KeyStroke.getKeyStroke(KeyEvent.VK_LEFT, 0));
 	}
@@ -58,8 +57,8 @@ public class PluginManagerTableModel extends TreeTableModel {
 		if (!node.getAllowsChildren()) {
 			Pair<?, ?> pair = TreeUtils.getUserObject(node);
 			return switch (column) {
+				case 0 -> pair.getValue1();
 				case 1 -> pair.getValue0();
-				case 2 -> pair.getValue1();
 				default -> "";
 			};
 		}
@@ -73,9 +72,8 @@ public class PluginManagerTableModel extends TreeTableModel {
 	@Override
 	protected TableColumnModel createTableColumnModel() {
 		TableColumnModel result = new DefaultTableColumnModel();
-		result.addColumn(createColumn(0, "manufacturer"));
-		result.addColumn(createColumn(1, "ident"));
-		result.addColumn(createColumn(2, "plugin"));
+		result.addColumn(createColumn(0, "Manufacturer/Plugin"));
+		result.addColumn(createColumn(1, "Ident"));
 		return result;
 	}
 
