@@ -9,41 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82778de5-9bdb-421d-be9e-350cbfad907c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/MacOS/JarPackager" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/Resources/Icon.icns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/Resources/en.lproj/Credits.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/Resources/en.lproj/InfoPlist.strings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/Resources/en.lproj/MainMenu.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/Resources/launcher" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product/1 Make App/Plugin Manager.app/Contents/_MASReceipt/receipt" beforeDir="false" />
-    </list>
+    <list default="true" id="82778de5-9bdb-421d-be9e-350cbfad907c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,9 +33,6 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="temurin-21" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -87,7 +54,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "283",
     "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/carlcaulkett/Code/Java/PluginManager",
@@ -95,36 +61,24 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="PluginManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.carlca.pluginmanager.PluginManager" />
-      <module name="pluginmanager" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.carlca.pluginmanager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="pluginmanager" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="pluginmanager" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,21 +120,9 @@
       <workItem from="1697987003024" duration="1797000" />
       <workItem from="1698003526329" duration="65000" />
       <workItem from="1698003641843" duration="698000" />
-      <workItem from="1698006028368" duration="5676000" />
-      <workItem from="1698408651624" duration="7000" />
-      <workItem from="1698408685372" duration="1227000" />
-      <workItem from="1698420968864" duration="35000" />
-      <workItem from="1698435588495" duration="49000" />
-      <workItem from="1698435659823" duration="2344000" />
-      <workItem from="1698950418499" duration="19000" />
-      <workItem from="1699035894034" duration="21000" />
-      <workItem from="1699035928581" duration="510000" />
-      <workItem from="1699036469626" duration="2254000" />
-      <workItem from="1699055680266" duration="360000" />
-      <workItem from="1699056046624" duration="7000" />
-      <workItem from="1699525086409" duration="1438000" />
-      <workItem from="1699532582810" duration="184000" />
-      <workItem from="1699532783437" duration="2074000" />
+      <workItem from="1698006028368" duration="1376000" />
+      <workItem from="1699647364699" duration="192000" />
+      <workItem from="1699647574746" duration="917000" />
     </task>
     <servers />
   </component>
@@ -189,17 +131,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/main/java/com/carlca/pluginmanager/PluginManager.java</url>
-          <line>25</line>
-          <properties field="progressThisOfThat" class="com.carlca.pluginmanager.PluginManager" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
